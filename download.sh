@@ -8,7 +8,7 @@ mkdir source/ips;
 mkdir source/hosts;
 
 curl -O -g "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&startdate[day]=&startdate[month]=&startdate[year]=&useip=0.0.0.0;showintro=0";
-mv serverlist.php\?hostformat\=hosts\&startdate\[day\]\=\&startdate\[month\]\=\&startdate\[year\]\=\&useip\=0.0.0.0\;showintro\=0 yoyo_adservers.txt;
+mv serverlist.php\?hostforma  t\=hosts\&startdate\[day\]\=\&startdate\[month\]\=\&startdate\[year\]\=\&useip\=0.0.0.0\;showintro\=0 yoyo_adservers.txt;
 sed -i '' '/<pre>/,$!d' yoyo_adservers.txt; sed -i '' '/<pre>/d' yoyo_adservers.txt; sed -i '' '/<\/pre>/,$d' yoyo_adservers.txt;
 mv yoyo_adservers.txt source/hosts/yoyo_adservers.txt;
 
