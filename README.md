@@ -1,5 +1,5 @@
 # MacOS Block Lists
-OSXCleaner is a set of scripts to clean system logs, application caches, cookies and more on MacOS.
+Downloads and aggregates lists of tracker / malware / spying domains, IPs and hostnames.
 
 ## Usage
 ### Downloading the lists
