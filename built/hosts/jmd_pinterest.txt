@@ -1,0 +1,15 @@
+127.0.0.1 pinterest.com
+127.0.0.1 www.pinterest.com
+127.0.0.1 api.pinterest.com
+127.0.0.1 engineering.pinterest.com
+127.0.0.1 developers.pinterest.com
+127.0.0.1 about.pinterest.com
+127.0.0.1 ads.pinterest.com
+127.0.0.1 blog.pinterest.com
+127.0.0.1 br.pinterest.com
+127.0.0.1 business.pinterest.com
+127.0.0.1 developers.pinterest.com
+127.0.0.1 help.pinterest.com
+127.0.0.1 id.pinterest.com
+127.0.0.1 uk.pinterest.com
+
