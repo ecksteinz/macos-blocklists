@@ -49,3 +49,6 @@ To update them in the future, just execute the script. No additional configurati
 	bash download.sh
 	bash build.sh
 	bash gasmask_install.sh
+
+## License
+MIT License - Copyright (c) 2017 Harvey Eckstein
